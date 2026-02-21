@@ -2,13 +2,13 @@
 
 ## 1) Execution Summary
 - **Outcome**: SUCCESS
-- **Run ID**: `RUN-69A2414B`
+- **Run ID**: `RUN-1FD2C893`
 - **Risk Tier**: GREEN
-- **Date (UTC)**: 2026-02-21 19:45:54
+- **Date (UTC)**: 2026-02-21 20:32:19
 
 ## 2) Connection Links
 - **Drive Outbox**: C:\claw_workspace\outbox\20260221\CONTENT-GEN-002
-- **GitHub Report**: https://github.com/sunwood-ai-lab/openclaw-reports/blob/main/reports/20260221/CONTENT-GEN-002/REPORT.md
+- **GitHub Report**: https://github.com/SunwooPark-dev/openclaw-reports/blob/main/reports/20260221/CONTENT-GEN-002/REPORT.md
 
 ## 3) Commands Executed
 - (No CLI commands recorded - Recipe mode)
